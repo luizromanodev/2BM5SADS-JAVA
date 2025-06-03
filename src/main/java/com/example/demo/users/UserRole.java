@@ -1,7 +1,7 @@
 package com.example.demo.users;
 
 public enum UserRole {
-    ADMIN("admin");
+    ADMIN("admin"),
     USER("user");
 
     private String role;
